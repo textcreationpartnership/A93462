@@ -1,0 +1,470 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The souldiers pocket Bible: containing the most (if not all) those places contained in holy Scripture, which doe shew the qualifications of his inner man, that is a fit souldier to fight the Lords battels, both before he fight, in the fight, and after the fight; which Scriptures are reduced to severall heads, and fitly applyed to the souldiers severall occasions, and so may supply the want of the whole Bible, which a souldier cannot conveniently carry about him: and may bee also usefull for any Christian to meditate upon, now in this miserable time of warre.</title>
+            <title>Bible. English. Selections.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93462</idno>
+            <idno type="STC">Wing S4428</idno>
+            <idno type="STC">Thomason E1180_2</idno>
+            <idno type="STC">Thomason C.54.aa.1(2)</idno>
+            <idno type="STC">ESTC R204900</idno>
+            <idno type="EEBO-CITATION">99864349</idno>
+            <idno type="PROQUEST">99864349</idno>
+            <idno type="VID">116577</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116577)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1180[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The souldiers pocket Bible: containing the most (if not all) those places contained in holy Scripture, which doe shew the qualifications of his inner man, that is a fit souldier to fight the Lords battels, both before he fight, in the fight, and after the fight; which Scriptures are reduced to severall heads, and fitly applyed to the souldiers severall occasions, and so may supply the want of the whole Bible, which a souldier cannot conveniently carry about him: and may bee also usefull for any Christian to meditate upon, now in this miserable time of warre.</title>
+                  <title>Bible. English. Selections.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>by G.B. and R.W. for G.C.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Appears in catalogue and on film as C.54.aa.1(2).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  English. --  Selections --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ari Friedlander</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ari Friedlander</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116577:1" rendition="simple:additions"/>
+            <p>THE SOULDIERS Pocket Bible: Containing the moſt (if not all) thoſe places contained in holy Scripture, which doe ſhew the qualifications of his inner man, that is a fit Souldier to fight the Lords Battels, both before he fight, in the fight, and after the fight; Which Scriptures are reduced to ſe<g ref="char:EOLhyphen"/>verall heads, and fitly applyed to the Souldiers ſeverall occaſions, and ſo may ſupply the want of the whole Bible, which a Souldier cannot conveniently carry about him: And may bee alſo uſefull for any Chriſtian to meditate upon, now in this miſerable time of Warre.</p>
+            <p>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>Edm. Calamy.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Joſ.</hi> 18.</bibl>
+               <p>This Book of the Law ſhall not depart out of thy mouth, but thou ſhalt meditate therein day and night, that thou maiſt obſerve to doe accor<g ref="char:EOLhyphen"/>ding to all that is written therein, for then thou ſhalt make thy way proſperous, and have good ſucceſſe.</p>
+            </q>
+            <p>Printed at <hi>London</hi> by <hi>G. B.</hi> and <hi>R. W.</hi> for <hi>G. C.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116577:2"/>
+            <head>The Souldiers pocket Bible.</head>
+            <div type="part">
+               <head>A Souldier muſt not doe wickedly.</head>
+               <q>
+                  <bibl>Deut. 23.9.</bibl> 
+                  <seg rend="decorInit">W</seg>Hen thou goeſt out with the hoſt againſt thine enemies, keepe thee then from all wickedneſſe.</q>
+               <q>
+                  <bibl>Luke 3.14</bibl> The ſouldiers likewiſe de<g ref="char:EOLhyphen"/>manded of him, ſaying, and what ſhall we doe? And he ſaid unto them, doe violence to no man, neither accuſe any falſly, and be content with your wages.</q>
+               <q>
+                  <bibl>Levit. 26.27 37.</bibl> And if you will not for this obey me, you ſhall not be able to ſtand before your ene<g ref="char:EOLhyphen"/>mies.</q>
+               <q>
+                  <bibl>Deut. 28.25.</bibl> And the Lord ſhall cauſe thee to fall be<g ref="char:EOLhyphen"/>fore thine enemies, thou ſhalt come out one way againſt them, and fly ſeven wayes be<g ref="char:EOLhyphen"/>fore them.</q>
+            </div>
+            <div type="part">
+               <head>A Souldier muſt be valiant for Gods Cauſe.</head>
+               <q>
+                  <bibl>1 Sam. 18.17.</bibl>Be valiant and fight the Lords bat<g ref="char:EOLhyphen"/>tells.</q>
+               <q>
+                  <bibl>2 Sam. 10.12.</bibl> Be ſtrong, and let us be valiant for our people, and for the Cities of our God,
+<pb n="3" facs="tcp:116577:2"/>and let the Lord doe that which is good in his eyes.</q>
+               <q>
+                  <bibl>1 Sam. 17.47.</bibl> For the battell is the Lords, and hee will give you into our hands.</q>
+            </div>
+            <div type="part">
+               <head>A Souldier muſt denie his owne wiſedome, his own ſtrength, &amp; all proviſion for war.</head>
+               <q>
+                  <bibl>Prov. 3.5.</bibl> Leane not to thine owne wiſedome.</q>
+               <q>
+                  <bibl>1 Sam. 2.9.</bibl> In his own might ſhall no man be ſtrong.</q>
+               <q>
+                  <bibl>1 Pſal. 44.6.</bibl>I doe not truſt in my Bow, neither can my Sword ſave me.</q>
+               <q>
+                  <bibl>Pſal. 33.16</bibl> A King is not ſaved by the multitude of an Hoſte, neither is the mighty man delivered by much ſtrength.</q>
+               <q>
+                  <bibl>17. Eccle. 8.8.</bibl> A horſe is a vaine helpe, and ſhall not deliver in the day of battle. Man hath not power over death, nor deliverance in battel.</q>
+               <q>
+                  <bibl>2 Chro. 20.12.</bibl> There is no power in us to ſtand againſt this great multitude, neither doe we know what to doe, but our eyes are towards thee.</q>
+            </div>
+            <div type="part">
+               <head>A Souldier muſt put his confidence in Gods Wiſedome and ſtrength.</head>
+               <q>
+                  <bibl>Ephe. 6.10</bibl> Be ſtrong in the Lord, and in the power of his might.</q>
+               <q>
+                  <bibl>Iob 12.13</bibl> For with him is wiſedome and ſtrength, he hath Counſell and underſtanding.</q>
+               <q>
+                  <bibl>Pſal 68.35.</bibl> The God of Iſrael is hee that giveth ſtrength and power unto his people.</q>
+               <q>
+                  <bibl>Pſal. 46.4.</bibl> God is our hope and ſtrength, and help, in trouble ready to be found.</q>
+               <q>
+                  <bibl>2 Chro. 25 8.</bibl> God hath power to helpe, and to caſt downe.</q>
+               <pb n="4" facs="tcp:116577:3"/>
+               <q>
+                  <bibl>Pſal. 67.16</bibl> I will goe forward in the ſtrength of the Lord.</q>
+               <q>
+                  <bibl>1 Sam. 17.45.</bibl> Then <hi>David</hi> ſaid unto the Philiſtine, thou commeſt to me with a ſword, and with a ſpeare, and with a ſhield, but I come unto thee in the name of the Lord of hoaſts, the God of Iſrael.</q>
+            </div>
+            <div type="part">
+               <head>A Souldier muſt pray before he goe to fight.</head>
+               <q>
+                  <bibl>Neh. 4.9.</bibl> Then we prayed unto our God, and ſet Watch-men by them day and night becauſe of them.</q>
+               <q>
+                  <bibl>Iudg. 16.28.</bibl> Then <hi>Sampſon</hi> called unto the Lord, and ſaid, O Lord God, I pray thee thinke upon me, O God, I beſeech thee ſtrengthen me at this time, &amp;c.</q>
+               <q>
+                  <bibl>2 Sam. 15.31.</bibl> And <hi>David</hi> ſaid, O Lord I pray thee turne the Counſell of <hi>Abitophill</hi> into foo<g ref="char:EOLhyphen"/>liſhneſſe.</q>
+               <q>
+                  <bibl>Iam. 1.5.</bibl> If any of you lacke wiſedome let him aske it of God.</q>
+               <q>
+                  <bibl>Pſa. 119.34</bibl> Give me underſtanding, and I ſhall keepe thy Law: ye I ſhall obſerve it with my whole heart.</q>
+               <q>
+                  <bibl>Pſa. 86.12.</bibl> Give ſtrength unto thy ſervant and ſave the ſonne of thine hand-maide.</q>
+               <q>
+                  <bibl>Pſa. 35.12.</bibl> 
+                  <p>Plead thou my cauſe O Lord with them that ſtrive with me, fight thou againſt them, that fight againſt me.</p>
+                  <p>Bring out the ſpeare and ſtop the way a<g ref="char:EOLhyphen"/>gainſt them.</p>
+               </q>
+               <pb n="5" facs="tcp:116577:3"/>
+               <q>
+                  <bibl>Iudg. 10.15.</bibl> And the children of Iſrael ſaid unto the Lord we have ſinned do thou unto us what<g ref="char:EOLhyphen"/>ſoever pleaſe thee, only we pray thee deliver us this day.</q>
+            </div>
+            <div type="part">
+               <head>A Souldier muſt conſider and beleeve Gods gracious promiſes.</head>
+               <q>
+                  <bibl>Chro. 20.20.</bibl> And when they aroſe early in the morning they went forth to the wildernes of Tekoa: and as they departed Jehoſhaphat ſtood and ſaid, hear ye me O Judah, and ye inhabi<g ref="char:EOLhyphen"/>tants of Jeruſalem, put your truſt in the Lord your God, and ye ſhall be aſſured; be<g ref="char:EOLhyphen"/>leeve his prophets and ye ſhall proſper.</q>
+               <q>
+                  <bibl>Deut. 20.4</bibl> For the Lord your God goeth with you, to fight for you againſt your enemies and to ſave you.</q>
+               <q>
+                  <bibl>Exo. 14.14</bibl>The Lord ſhall fight for you.</q>
+               <q>
+                  <bibl>2 Kin. 17.39. Dan. 3.17</bibl> Fear the Lord your God and he ſhall de<g ref="char:EOLhyphen"/>liver you out of the hands of al your enemies</q>
+               <q>
+                  <bibl>Dan. 3.17</bibl>Behold our God whom we ſerve is able to deliver us from the hot fiery furnice, and he will deliver us out of thine hand O King.</q>
+               <q>
+                  <bibl>1 Chro. 17 10.</bibl> And I will ſubdue all thine enemies.</q>
+               <q>
+                  <bibl>Iſa. 41.12.</bibl>Thou ſhalt ſeeke them and ſhalt not finde them, to wit the men of thy ſtrife; for they ſhall be as nothing, and the men that warre againſt thee as a thing of naught.</q>
+               <q>
+                  <bibl>Iſa. 54.17.</bibl> No weapon made againſt thee ſhal proſper.</q>
+            </div>
+            <div type="part">
+               <head>A Souldier muſt not feare his enemies.</head>
+               <q>
+                  <bibl>Dut. 20.1.</bibl> When thou ſhalt go forth to War againſt thine enemies, and ſhalt ſee horſes and Cha<g ref="char:EOLhyphen"/>riots
+<pb n="6" facs="tcp:116577:4"/>moe then thou, be not afraid of them for the Lord thy God is with thee.</q>
+               <q>
+                  <bibl>Dut. 3.32</bibl> Ye ſhall not fear them, for the Lord your God ſhall ſight for you fear them not for I heve given them into thine hand.</q>
+               <q>
+                  <bibl>2 Chro. 32 78.</bibl> Be ſtrong and couragious, fear not, nei<g ref="char:EOLhyphen"/>ther be afraid for the king of Aſhur, neither for all the multitude that is with him, for there be moe with us then with him, with him is an arme of fleſh, but with us is the Lord our God for to helpe us and to fight our battells.</q>
+               <q>
+                  <bibl>Iſa. 7.4.</bibl> Feare not neither, be faint hearted, for the two tailes of the ſmoking fire brands.</q>
+               <q>
+                  <bibl>Mat. 10.28</bibl> And fear ye not them which kill the body.</q>
+            </div>
+            <div type="part">
+               <head>A Souldier muſt love his enemies as they are his enemies, and hate them as they are gods enemies.</head>
+               <q>
+                  <bibl>Mat. 5.44.</bibl> But I ſay unto you love your enemies.</q>
+               <q>
+                  <bibl>2 Chro. 19 2.</bibl> Wouldeſt thou help the wicked, and love them that hate the Lord.</q>
+               <q>
+                  <bibl>Pſa 139 21.22.</bibl> Doe not I hate them O Lord that hate thee, and do not I earneſtly contend with them that riſe up againſt thee? I hate them with an unfained hatred, as they were mine utter enemies.</q>
+            </div>
+            <div type="part">
+               <head>A Souldier muſt crie unto God in his heart in the very inſtant of the battell.</head>
+               <q>
+                  <bibl>2 Chro. 13.14.</bibl> Then Judah looked, and behold the bat<g ref="char:EOLhyphen"/>tell
+<pb n="7" facs="tcp:116577:4"/>was before and behinde them, and they cryed unto the Lord.</q>
+               <q>
+                  <bibl>2 Chro. 14 11.</bibl> And Aſa cryed unto the Lord his God, and ſaid, Lord it is nothing with thee to help with many, or with no power.</q>
+               <q>
+                  <bibl>2 Chro. 18.31.</bibl> And when the Captaines of the Chariots ſaw Jehoſhaphat, they ſaid, it is the King of Iſ<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ael and they compaſſed about him to fight but Jehoſhaphat cryed, and the Lord helped him and moved them to depart from him.</q>
+            </div>
+            <div type="part">
+               <head>A Souldier muſt conſider that ſometimes Gods people have the worſt in battell as well as Gods enemies.</head>
+               <q>
+                  <bibl>1 Sam 11.25.</bibl> The ſword devoureth one as well as another.</q>
+               <q>
+                  <bibl>Ecles. 9.2.</bibl> All things come alike to all: there is one event to the righteous and to the wicked, to the good and to the cleane, and to the un<g ref="char:EOLhyphen"/>cleane, to him that ſacrificeth, and to him that ſacrificeth not: as is the good, ſo is the ſinner: and he that ſweareth, as he that feareth an oath.</q>
+               <q>
+                  <bibl>Ioſ. 7.4.</bibl> So there went up thither of the people a<g ref="char:EOLhyphen"/>bout three thouſand men and they fled be<g ref="char:EOLhyphen"/>fore the men of Ai.</q>
+               <q>
+                  <bibl>Iudg. 6.2.</bibl> And the hand of Midian prevailed againſt Iſrael.</q>
+               <q>
+                  <bibl>1 Sam. 4.10.</bibl> And the Philiſtines fought, and Iſrael was ſmitten downe, and fled every man into his
+<pb n="8" facs="tcp:116577:5"/>Tent, and there was an exceeding great ſlaughter, for there fell of Iſrael thirty thou<g ref="char:EOLhyphen"/>ſand footmen.</q>
+               <q>
+                  <bibl>Exo. 17.12.</bibl> But when Moſes let his hand go downe, Amalek prevailed.</q>
+               <q>
+                  <bibl>Lam 1.16</bibl>My children are deſolate becauſe the ene<g ref="char:EOLhyphen"/>my prevailed.</q>
+            </div>
+            <div type="part">
+               <head>Souldiers and all of us muſt conſider that though Gods people have the worſt yet it cometh of the Lord.</head>
+               <q>
+                  <bibl>Eſa. 42.24.</bibl> Who gave Jacob to the ſpoile and Iſrael to the Robbers did not I the Lord.</q>
+               <q>
+                  <bibl>Amos, 3.6</bibl> Shall there be evil in a City and the Lord hath not done it.</q>
+               <q>
+                  <bibl>Iudg. 42.</bibl> And the Lord ſold them into the hands of Jabin king of Canaan.</q>
+               <q>
+                  <bibl>Lam. 1.14</bibl> The Lord hath delivered me into their hands neither am I able to riſe up.</q>
+               <q>
+                  <bibl>Lam. 2.7.</bibl> The Lord hath forſaken his altar he hath abhorred his Sanctuary he hath given it into the hand of the enemy.</q>
+            </div>
+            <div type="part">
+               <head>For the iniquities of Gods people are delive<g ref="char:EOLhyphen"/>vered into the hands of their enemies.</head>
+               <q>
+                  <bibl>Deut. 29.24.25.</bibl>
+                  <p>Then ſhall all nations ſay, wherefore hath the Lord done this unto this land, how fierce is his great wrath.</p>
+                  <p>And they ſhall anſwer becauſe they have forſaken the Covenant of the Lord God of their fathers.</p>
+               </q>
+               <q>
+                  <bibl>Ioſ. 7.10.11.</bibl> And the Lord ſaid unto Joſhua get thee up; wherefore lieſt thou thus upon thy face?
+<pb n="9" facs="tcp:116577:5"/>Iſrael hath ſinned, and they have tranſgreſſed my Covenant which I commanded them.</q>
+               <q>
+                  <bibl>Ier. 40.2.3</bibl> The Lord thy God hath pronounced this plague upon this place now the Lord hath brought it and done according as he hath ſaid, becauſe ye have ſinned againſt the Lord.</q>
+               <q>
+                  <bibl>Ier. 50.6.7</bibl> My people have been as loſt ſheepe, all that found them have devoured them, and their enemies ſaid we offend not, becauſe they have ſinned againſt the Lord.</q>
+               <q>
+                  <bibl>Lam 3.39</bibl> Wherefore then is the living man ſorrow<g ref="char:EOLhyphen"/>full; man ſuffereth for his ſinne.</q>
+            </div>
+            <div type="part">
+               <head>Therefore both Souldiers and all Gods peo<g ref="char:EOLhyphen"/>ple upon ſuch occaſions muſt ſearch out their ſinnes.</head>
+               <q>
+                  <bibl>Lam. 3.40</bibl> Let us ſearch and try our woyes and turne againe unto the Lord.</q>
+               <q>
+                  <bibl>Joſ. 7.13.</bibl> Up therefore Sanctifie your ſelves a<g ref="char:EOLhyphen"/>gainſt to morrow, for thus ſaith the Lord God of Iſrael, there is an execrable thing amongſt you therefore you cannot ſtand againſt your enemies untill ye have put the execrable thing from among you.</q>
+            </div>
+            <div type="part">
+               <head>Eſpecially let Souldiers and all of us upon ſuch occaſions ſearch whether we have not put two little confidence in the Arme of the Lord, and too much in the arme of fleſh.</head>
+               <q>
+                  <bibl>Jer. 2.13.</bibl> For my people have committed two e<g ref="char:EOLhyphen"/>vils, they have forſaken me the fountaine of
+<pb n="10" facs="tcp:116577:6"/>living waters, to dig them pits, even broken pits that will hold no water.</q>
+               <q>
+                  <bibl>Jer. 2.37</bibl>Therefore ſaith the Lord they ſhall goe forth from thence with their hands upon their heads, becauſe the Lord hath rejected their confidence they ſhall not proſper thereby.</q>
+               <q>
+                  <bibl>Jer. 17.5.</bibl> Therefore thus ſaith the Lord, curſed be the man that truſteth in man, and maketh fleſh his Arme and withdraweth his heart from the Lord.</q>
+            </div>
+            <div type="part">
+               <head>And let Souldiers and all of us conſider, that to prevent this ſin, and for the committing of this ſinne the Lord hath ever beene accuſtomed to give the victory to a few.</head>
+               <q>
+                  <bibl>Jud. 7.2.</bibl> And the Lord ſaid unto Gideon the peo<g ref="char:EOLhyphen"/>ple that are with thee are too many for me to give the Midionites into their hands, leſt Iſrael make their vaunt againſt me, and ſay, mine hand hath ſaved me.</q>
+               <q>
+                  <bibl>Jud. 7.7</bibl>Then the Lord ſaid unto Gideon by theſe three hundred men that lapped will I ſave you and deliver the Midionites into thine handes.</q>
+               <q>
+                  <bibl>Jud. 20.15.</bibl> And the children of Benjamin were num<g ref="char:EOLhyphen"/>bred at that time out of the Cities ſix and twenty thouſand men that drew ſword.</q>
+               <q>
+                  <bibl>Jud. 20.17</bibl>Alſo the men of Iſrael beſides Benjamin were numbred four hundred thouſand men that drew ſword.</q>
+               <q>
+                  <bibl>Jud. 20.21</bibl>And the children of Benjamin came out
+<pb n="11" facs="tcp:116577:6"/>of Gibeah and ſlew downe to the ground of the Iſraelites that day two and twenty thouſand men.</q>
+               <q>
+                  <bibl>Jud. 20.25</bibl>And the ſecond day Benjamin came forth to meet them out of Gibeah and ſlew down to the ground of the children of Iſrael again eighteeen thouſand men.</q>
+               <q>
+                  <bibl>Jud. 20.30</bibl>And the children of Iſrael went up againſt the Children of Benjamin the third day.</q>
+               <q>
+                  <bibl>Jud. 20.43</bibl>And compaſſed the Benjamits about, and chaſed them at eaſe, and over ran them, and there were ſlaine of Benjamines eighteene thouſand men.</q>
+               <q>
+                  <bibl>Jud. 20.44</bibl>And the Iſraelites gleaned of them by the way five thouſand men, and perſued after them unto Gidon and ſlew two thouſand men of them.</q>
+               <q>
+                  <bibl>Jud. 20.45</bibl>So that all that were ſlaine that day of Benjamin, were five and twenty thouſand men, that drew ſword.</q>
+               <q>
+                  <bibl>2 Chron. 13.3.</bibl> And Abijah ſet the battell in aray with the Army of valiant men of War even four hundred thouſand choſen men. J<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roboam alſo ſet the battell in aray againſt him with eight hundred thouſand choſen men, which were ſtrong and valiant.</q>
+               <q>
+                  <bibl>2 Chron. 13.4</bibl> And Abijah ſtood upon the mount Zeme<g ref="char:EOLhyphen"/>raim, and ſaid O Jereboam and all Iſrael heare ye me.</q>
+               <q>
+                  <bibl>2 Chron. 13.8</bibl> Ye thinke that ye be able to reſiſt againſt the Kingdome of the Lord which is in the
+<pb n="12" facs="tcp:116577:7"/>hands of the Sonnes of David;and ye ſee a great multitude, and the golden calves are with you, which Jeroboam hath made you for Gods.</q>
+               <q>
+                  <bibl>2 Chron. 13.10</bibl>But, we belong to the Lord our God and have not forſaken him,</q>
+               <q>
+                  <bibl>2 Chron. 13.12</bibl>And behold this God is with us as a Cap<g ref="char:EOLhyphen"/>taine, O ye children of Iſrael fight not a<g ref="char:EOLhyphen"/>gainſt the Lord God of your fathers, for ye ſhall not proſper.</q>
+               <q>
+                  <bibl>2 Chron. 13.13.</bibl>But Jeroboam cauſed an Ambuſhment to compaſſe and come behinde them.</q>
+               <q>
+                  <bibl>2 Chron. 13.14.</bibl>Then Judah looked and behold the bat<g ref="char:EOLhyphen"/>tell was before and behinde them, and they cried unto the Lord.</q>
+               <q>
+                  <bibl>2 Chron. 13.15.</bibl>And the men of Judah gave a ſhout, and as the men of Judah ſhouted God ſmote Jeroboam, and alſo Iſrael before Abijah and Judah.</q>
+               <q>
+                  <bibl>2 Chron. 13.17.</bibl>And Abijah and his people ſlew a great ſlaughter of them, ſo that there fell of them down wounded five hundred thouſand cho<g ref="char:EOLhyphen"/>ſen men.</q>
+               <q>
+                  <bibl>2 Chro. 14.8.</bibl> And Aſa had an Army of Judah that bare ſhields and ſpeares, three hundred thouſand, and of Benjamin that bare ſhields and drew bowes four hundred and fourſcore thouſand, all theſe were valiant men of war.</q>
+               <q>
+                  <bibl>2 Chro. 14.9.</bibl>And there came out againſt them Zerah of Ethiopia with an hoſte of ten hundred thouſand, and three hundred Chariots.</q>
+               <pb n="13" facs="tcp:116577:7"/>
+               <q>
+                  <bibl>2 Chro. 14.10.</bibl>Then Aſa went out before him and they ſet the battell in aray in the valley of Zepha<g ref="char:EOLhyphen"/>thah beſides Mareſhah.</q>
+               <q>
+                  <bibl>2 Chro. 14.11.</bibl>And Aſa cryed unto the Lord his God, and ſaid, Lord it is nothing with thee to help with many or with no power, helpe us O Lord our God for we reſt on thee, and in thy name are we come againſt this multitude O Lord thou art our God let not man pre<g ref="char:EOLhyphen"/>vaile againſt thee.</q>
+            </div>
+            <div type="part">
+               <head>And let Souldiers, and all of us know, that the very nicke of time that God hath pro<g ref="char:EOLhyphen"/>miſed us helpe, is when we ſee no helpe in man.</head>
+               <q>
+                  <bibl>Gen. 22.14</bibl>In the mount will the Lord be ſeene.</q>
+               <q>
+                  <bibl>Exo. 14.13</bibl> Then Moſes ſaid unto the people, fear ye not ſtand ſtill and behold the Salvation of the Lord, which he will ſhew to you this day the Lord ſhall fight for you therefore hold you your peace.</q>
+               <q>
+                  <bibl>2 Chro. 20 11.</bibl> O our God wilt thou not judge them, for there is no ſtrength in us to ſtand againſt this great multitude, neither doe wee know what to doe, but our eyes are towards thee.</q>
+               <q>
+                  <bibl>2 Chro. 20.17</bibl>Ye ſhall not need to fight in this battell, ſtand ſtill, move not, and behold the ſalva<g ref="char:EOLhyphen"/>tion of the Lord towards you.</q>
+               <q>
+                  <bibl>Deut. 32.35, 36.</bibl> Vengeance and recompence are mine, their feet ſhall ſlide in due time for the day of their calamities is at hand, and all things
+<pb n="14" facs="tcp:116577:8"/>that ſhall come upon you make haſte.</q>
+               <q>
+                  <bibl>Deut. 32.36.</bibl> For the Lord ſhall judge his people, and repent towards his ſervants; when he ſeeth that their power is gone and none ſhut up in hold or left abroad.</q>
+               <q>
+                  <bibl>2 Cor. 12.11.</bibl> For my power is made perfect through weakneſſe.</q>
+               <q>
+                  <bibl>Zack. 4.6.</bibl> For neither by an Army, nor ſtrength but by my ſpirit, ſaith the Lord of Hoſts.</q>
+               <q>
+                  <bibl>Pſa 12.5.</bibl> Now for the opreſſion of the needy and for the ſighes of the poor, I will up ſaith the Lord I will ſet him in ſafety from him that puffeth at him.</q>
+               <q>
+                  <bibl>Eſa. 33.10.</bibl> Now will I ariſe ſaith the Lord, now will I be exalted, now will I lift up my ſelfe.</q>
+            </div>
+            <div type="part">
+               <head>Wherefore if our Forces be weakned, and the enemy ſtrengthened, then let Souldiers and all of as know that now we have a pro<g ref="char:EOLhyphen"/>miſe of Gods helpe which we had not when we were ſtrongers, and therefore let us pray more confidently.</head>
+               <q>
+                  <bibl>Eſa. 33.2.</bibl> O Lord have mercie on us, wee have waited for thee, be thou which was their arme in the morning, our helpe alſo in time of trouble.</q>
+               <q>
+                  <bibl>Deut. 33.7</bibl> Heare, O Lord the voyce of <hi>Judah,</hi> and bring him unto his people, his hands ſhall be ſufficient for him if thou help him againſt his enemies.</q>
+               <q>
+                  <bibl>Pſa. 142.45.</bibl> I looked upon my right hand and beheld, but there was none that would know me, all
+<pb n="15" facs="tcp:116577:8"/>refuge failed mee<g ref="char:punc">▪</g> and none cared for my ſoule, then cried I unto the Lord, and ſaid, thou art my hope.</q>
+               <q>
+                  <bibl>Pſa. 22.11.</bibl> Be no<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> farre from me, becauſe trouble is neare, and there is none to helpe.</q>
+               <q>
+                  <bibl>Pſa 97.8.</bibl> Remember not againſt us our former iniquities, but make haſt, and let thy tender mercies prevent us, for we are brought very low.</q>
+               <q>
+                  <bibl>Pſa 35.2.</bibl> Lay hand upon the ſword and bucklen, and ſtand up for my helpe.</q>
+               <q>
+                  <bibl>Pſa. 79 9.</bibl> Helpe us O God of our ſalvation, for the glory of thy name.</q>
+            </div>
+            <div type="part">
+               <head>And let Souldiers, and all of us know, that if we obtaine any victory over our enemies, it is our dutie to give all the glory to the Lord, and ſay</head>
+               <q>
+                  <bibl>Exo. 15.3.</bibl> The Lord is a man of warre, his name is <hi>Jehovah.</hi>
+               </q>
+               <q>
+                  <bibl>Exo. 15.6.</bibl>Thy right hand, O Lord is glorious in power, thy right hand O Lord hath bruiſed the enemies.</q>
+               <q>
+                  <bibl>Exo. 15.7.</bibl>And in thy great glory, thou haſt over<g ref="char:EOLhyphen"/>throwne them that roſe up againſt thee.</q>
+               <q>
+                  <bibl>Pſa. 118.23.</bibl> This was the Lords doing; and it is mar<g ref="char:EOLhyphen"/>vellous in our eyes.</q>
+               <q>
+                  <bibl>Ioſha. 10.14.</bibl>For the Lord fought for Iſrael.</q>
+               <q>
+                  <bibl>Mica. 7.7</bibl>Therefore will we looke unto the Lord.</q>
+               <q>
+                  <bibl>2 Cor. 1.10.</bibl>Who delivered us from ſo great a death.</q>
+               <q>
+                  <bibl>1 Cor. 29.15.</bibl>Now therefore our God we thanke thee, and praiſe thy glorious name.</q>
+               <pb n="16" facs="tcp:116577:9"/>
+               <q>
+                  <bibl>Eſra. 9.13.14.</bibl> And ſeeing that thou our God haſt ſtain us from being beneath for our iniquities, and haſt given us ſuch a deliverance, ſhould wee returne to breake thy Commande<g ref="char:EOLhyphen"/>ments.</q>
+               <q>
+                  <bibl>Pſa 116.9.</bibl> I will walke before the Lord in the Land of the living.</q>
+               <q>
+                  <bibl>Pſa. 119 109.</bibl> I have vowed, and I will performe it, that I will keepe thy righteous judge<g ref="char:EOLhyphen"/>ments.</q>
+            </div>
+         </div>
+         <div type="license">
+            <p>This is Licenſed according to order:</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
